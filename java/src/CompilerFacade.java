@@ -1,4 +1,4 @@
-public class LanguageFacade {
+public class CompilerFacade {
 
     public static boolean verifyCompilableLanguages(Language language) {
         if(FrontEnd.getInstance().verifyIfLanguageCanBeTranslated(language))
