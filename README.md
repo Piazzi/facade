@@ -4,7 +4,7 @@
 
 # Code
 
-Simple project representing the decorator design pattern. For this one i made a Compiler classe that can have multiples front end to compile various languages, then we have a Language Facade class to access some funcionalities.
+Simple project representing the decorator design pattern. For this one i made a Compiler classe that can have multiples front end to compile various languages, then we have a Compiler Facade class to access some funcionalities.
 
 # Resume
 
